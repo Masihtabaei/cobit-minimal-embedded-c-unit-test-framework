@@ -12,7 +12,7 @@
 Here you will find a minimal unit test framework for C to use in your embedded project.
 
 I created this framework over the night in summer of 2023 for testing my embedded programs
-written in C for Nucleo-Board (with an Arm Cortex M4 beased processor / STM32G474).
+written in C for Nucleo-Board (with an Arm Cortex M4 based processor / STM32G474).
 It uses the sprintf and a two dimensional array as a buffer to display the test results.
 I called it **cobit**. **cobit** is a partial blend (**Coburg** \[name of a small city located in Bavaria in Southern Germany\] + **Unit** \[for unit tests\])
 Feel free to extend/adjust this project so that it meets your goals.
