@@ -1,4 +1,10 @@
-# Cobit - A Minimal Embedded C Unit Test Framework
+# cobit - A Minimal Embedded C Unit Test Framework
+
+> [!NOTE]  
+> This project was completed as part of the **Applied Microcomputer Technology** course during the **Summer Term 2023** of our undergraduate studies, offered by [Prof. Dr. Peter Raab](https://www.oth-aw.de/hochschule/ueber-uns/personen/raab-peter/) at [Coburg University](https://www.hs-coburg.de/en/). It was originally developed outside of GitHub and later partially migrated here, so some elements may be missing.
+
+> [!IMPORTANT]  
+> This project is licensed under the [MIT License](https://masihtabaei.dev/licenses/mit).
 
 ## Technologies Used
 
